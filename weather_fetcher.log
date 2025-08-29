@@ -1,0 +1,15 @@
+2025-08-29 11:00:28,796 - __main__ - INFO - Weather Fetcher started for city: Sofia
+2025-08-29 11:00:28,796 - __main__ - INFO - Attempting to geocode city: Sofia
+2025-08-29 11:00:29,250 - __main__ - INFO - Found coordinates for Sofia: {'latitude': 42.69751, 'longitude': 23.32415}
+2025-08-29 11:00:29,261 - __main__ - INFO - Fetching weather for coordinates: 42.69751, 23.32415
+2025-08-29 11:00:30,044 - __main__ - INFO - Weather data successfully displayed. Exiting.
+2025-08-29 11:00:42,790 - __main__ - INFO - Weather Fetcher started for city: Burgas
+2025-08-29 11:00:42,790 - __main__ - INFO - Attempting to geocode city: Burgas
+2025-08-29 11:00:43,124 - __main__ - INFO - Found coordinates for Burgas: {'latitude': 42.50606, 'longitude': 27.46781}
+2025-08-29 11:00:43,128 - __main__ - INFO - Fetching weather for coordinates: 42.50606, 27.46781
+2025-08-29 11:00:43,464 - __main__ - INFO - Weather data successfully displayed. Exiting.
+2025-08-29 11:01:16,796 - __main__ - INFO - Weather Fetcher started for city: Karnobat
+2025-08-29 11:01:16,796 - __main__ - INFO - Attempting to geocode city: Karnobat
+2025-08-29 11:01:17,101 - __main__ - INFO - Found coordinates for Karnobat: {'latitude': 42.65, 'longitude': 26.98333}
+2025-08-29 11:01:17,105 - __main__ - INFO - Fetching weather for coordinates: 42.65, 26.98333
+2025-08-29 11:01:17,466 - __main__ - INFO - Weather data successfully displayed. Exiting.
